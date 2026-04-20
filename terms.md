@@ -40,4 +40,4 @@ Uygulama içinden hesabınızı istediğiniz zaman silebilirsiniz (Profil → He
 
 ## 8. İletişim
 
-peak.family@example.com
+oguzmericx@gmail.com

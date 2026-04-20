@@ -3,7 +3,7 @@
 Sorularınız, geri bildirimleriniz veya sorun raporlarınız için bize ulaşın.
 For questions, feedback, or bug reports, please contact us.
 
-**E-posta / Email:** peak.family@example.com
+**E-posta / Email:** oguzmericx@gmail.com
 
 Yanıt süresi: 1-3 iş günü.
 Response time: 1–3 business days.

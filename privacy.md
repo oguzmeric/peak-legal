@@ -28,8 +28,8 @@ Veriler Supabase altyapısında (AB/ABD sunucularında) barındırılır. Fotoğ
 ## 4. Haklarınız
 
 - **Hesabınızı silme:** Uygulama içinde Profil → Hesabı Sil ile tüm verilerinizi kalıcı olarak silebilirsiniz.
-- **Veri erişimi:** peak.family@example.com adresine yazarak kişisel verilerinizin bir kopyasını isteyebilirsiniz.
-- **İletişim:** Sorularınız için peak.family@example.com
+- **Veri erişimi:** oguzmericx@gmail.com adresine yazarak kişisel verilerinizin bir kopyasını isteyebilirsiniz.
+- **İletişim:** Sorularınız için oguzmericx@gmail.com
 
 ## 5. Çocukların Gizliliği
 
@@ -42,4 +42,4 @@ Bu politikayı zaman zaman güncelleyebiliriz. Önemli değişiklikler uygulama 
 ## 7. İletişim
 
 Peak
-E-posta: peak.family@example.com
+E-posta: oguzmericx@gmail.com
